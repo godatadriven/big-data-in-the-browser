@@ -17,4 +17,4 @@ Before starting a presentation I:
 2. Delete the 'Although it may not be clear yet' text from the 5<sup>th</sup> cell.
 
 ----
-- _[Andrew Snare](mailto:andrewsnare@godatadriven.com) ([@asnare](https://twitter.com/asnare))_
+— _[Andrew Snare](mailto:andrewsnare@godatadriven.com) ([@asnare](https://twitter.com/asnare))_
