@@ -18,3 +18,5 @@ Before starting a presentation I:
 
 ----
 — _[Andrew Snare](mailto:andrewsnare@godatadriven.com) ([@asnare](https://twitter.com/asnare))_
+
+[rise]: https://github.com/damianavila/RISE
