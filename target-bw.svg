@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+	"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 150 150" version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Abstract Target &#x2014; Black &amp; White</title>
+  <defs>
+    <polygon id="Rect" fill="black" points="75,10 140,75 75,140 10,75"/>
+  </defs>
+  <use xlink:href="#Rect"/>
+  <g transform="rotate(45,75,75)">
+    <use xlink:href="#Rect"/>
+  </g>
+  <circle cx="75" cy="75" r="50.0" stroke="white" stroke-width="6.5"/>
+  <circle cx="75" cy="75" r="37.0" stroke="white" stroke-width="6.5"/>
+  <circle cx="75" cy="75" r="24.0" stroke="white" stroke-width="6.5"/>
+  <circle cx="75" cy="75" r="11" stroke="white" stroke-width="6.5"/>
+</svg>
